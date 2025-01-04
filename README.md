@@ -1,6 +1,7 @@
 # flutter_application_2
 
-A new Flutter project.
+
+Professional design, to display your pet
 
 ## Getting Started
 
